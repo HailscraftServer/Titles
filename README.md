@@ -1,0 +1,2 @@
+# Titles
+Hails Title Plugin
